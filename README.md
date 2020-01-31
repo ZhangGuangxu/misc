@@ -1,2 +1,2 @@
 # misc
-miscellaneous functions
+miscellaneous
